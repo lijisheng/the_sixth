@@ -1,5 +1,4 @@
 sub DNA_set{
-use lib'~/project';
 use randlength;
 use randDNA;
 my($minlength,$maxlength,$number)=@_;
